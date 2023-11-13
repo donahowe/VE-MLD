@@ -81,7 +81,7 @@ python validate.py  \
 --model-path= ./models/model-highest.ckpt
 ```
 
-## Citation
+## Referrence
 The decoder is initially designed by Ridnik in 2021
 ```
 @misc{ridnik2021mldecoder,
