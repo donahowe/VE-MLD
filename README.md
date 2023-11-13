@@ -11,7 +11,7 @@ The ViT (Vision Transformer) model, known for its excellence, has been widely us
 <p align="center">
  <table class="tg">
   <tr>
-    <td class="tg-c3ow"><img src="./pictures/model.png" align="center" width="700"></td>
+    <td class="tg-c3ow"><img src="./pictures/VEMLD.png" align="center" width="700"></td>
   </tr>
 </table>
 </p>
