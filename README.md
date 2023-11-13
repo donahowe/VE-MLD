@@ -4,7 +4,7 @@
 
 **Abstract**
 
-The ViT (Vision Transformer) model, known for its excellence, has been widely used in computer vision tasks. One important task in computer vision is multilabel image classification. In this work, the ViT model is combined with the ML-Decoder proposed by Tal Ridnik and others to create a Transformer framework specifically designed for multilabel classification, with ViT serving as the encoder.
+The ViT (Vision Transformer) model, known for its excellence, has been widely used in computer vision tasks. Multilabel image classification is one of the important task in computer vision. However, due to the convenience of decoding, most existing models are based on CNN. In this work, transformer encoder is combined with the ML-Decoder proposed by Tal Ridnik et al. to create a Transformer encoder-decoder framework specifically designed for multilabel classification.
 
 
 
