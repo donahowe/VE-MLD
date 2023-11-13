@@ -18,7 +18,7 @@ The ViT (Vision Transformer) model, known for its excellence, has been widely us
 
 ## Enviroment Setup
 ```
-cd ./VEMLD
+cd ./VE-MLD
 conda create -n VEMLD python=3.8
 conda activate VEMLD
 pip install -r requirements.txt
