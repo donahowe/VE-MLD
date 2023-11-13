@@ -49,7 +49,7 @@ The leaf dataset used in this project is obtained from the competition [Plant Pa
 <p align="center">
  <table class="tg">
   <tr>
-    <td class="tg-c3ow"><img src="./pictures/dataprocess.png" align="center" width="700" ></td>
+    <td class="tg-c3ow"><img src="./pictures/dataprocess.png" align="center" width="1000" ></td>
   </tr>
 </table>
 </p>
