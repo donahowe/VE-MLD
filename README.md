@@ -25,12 +25,14 @@ pip install -r requirements.txt
 ```
 Tips: Ensure your Torch, Torchvision and Cuda versions are matched
 ## Quick Start
-Here's a sample to validate and visualize the classification result. 
-You first need to download trained model here
+Here's a sample to visualize the classification result. 
+You first need to download trained model from LEAF dataset here
 | Model | Acc | mAP | F1 score |
 |---------|---------|---------|---------|
 | [Vit](https://www.bilibili.com/video/BV1yu4y1r7mL/?spm_id_from=333.337.search-card.all.click&vd_source=c8f9833ce68dee82709541fca8bf79ad) | Nan | Nan |Nan|
 | [TResNet-L](https://www.bilibili.com/video/BV1yu4y1r7mL/?spm_id_from=333.337.search-card.all.click&vd_source=c8f9833ce68dee82709541fca8bf79ad) | Nan | Nan |Nan|
+
+Run this code
 ```
 python infer.py  \
 --data= your image path \
