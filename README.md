@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Tips: Ensure your Torch, Torchvision and Cuda versions are matched
 ## Quick Start
 Here's a sample to visualize the classification result. 
-You first need to download trained model from LEAF dataset here
+You first need to download trained encoder from LEAF dataset here
 | Model | Acc | mAP | F1 score |
 |---------|---------|---------|---------|
 | [Vit](https://drive.google.com/file/d/1waRyl3_p2d4cxGZqULUTwSy10JjTEL_z/view?usp=drive_link) | 81.33 | 91.61 | 84.01 |
