@@ -1,4 +1,4 @@
-# VisiontransformerEncoder-MultiLabelDecoder: ViT for multilabel image classification
+# Vision Transformer Encoder-MultiLabel Decoder: VE-MLD for multilabel image classification
 
 
 
