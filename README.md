@@ -29,7 +29,7 @@ Here's a sample to visualize the classification result.
 You first need to download trained model from LEAF dataset here
 | Model | Acc | mAP | F1 score |
 |---------|---------|---------|---------|
-| [Place Holder](https://www.bilibili.com/video/BV1yu4y1r7mL/?spm_id_from=333.337.search-card.all.click&vd_source=c8f9833ce68dee82709541fca8bf79ad) | Nan | Nan |Nan|
+| [Vit](https://drive.google.com/file/d/1waRyl3_p2d4cxGZqULUTwSy10JjTEL_z/view?usp=drive_link) | 81.33 | 91.61 | 84.01 |
 | [TResNet-L](https://drive.google.com/file/d/1O9FquCv76HIagEQ9huu6hOnZ1Q032cO5/view?usp=drive_link) | 80.17 | 87.36 | 83.01 |
 
 Run this code
