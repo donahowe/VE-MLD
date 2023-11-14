@@ -30,7 +30,7 @@ You first need to download trained model from LEAF dataset here
 | Model | Acc | mAP | F1 score |
 |---------|---------|---------|---------|
 | [Vit](https://drive.google.com/file/d/1waRyl3_p2d4cxGZqULUTwSy10JjTEL_z/view?usp=drive_link) | 81.33 | 91.61 | 84.01 |
-| [TResNet-L](https://drive.google.com/file/d/1O9FquCv76HIagEQ9huu6hOnZ1Q032cO5/view?usp=drive_link) | 80.17 | 87.36 | 83.01 |
+| [TResNet-L](https://drive.google.com/file/d/1AkF5aH-Tm1kpqW61NI2l7qGfwWflh1Hs/view?usp=drive_link) | 84.33 | 91.30 | 87.43 |
 
 Run this code
 ```
