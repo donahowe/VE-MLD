@@ -4,7 +4,7 @@
 
 **Abstract**
 
-The ViT (Vision Transformer) model, known for its excellence, has been widely used in computer vision tasks. Multilabel image classification is one of the important task in computer vision. In this work, transformer encoder is combined with the ML-Decoder proposed by Tal Ridnik et al. to create a Transformer encoder-decoder framework specifically designed for multilabel classification.
+The ViT (Vision Transformer) model, known for its excellent performance, has been widely used in computer vision tasks. Multilabel image classification is one of the important task in computer vision. In this work, transformer encoder is combined with the ML-Decoder proposed by Tal Ridnik et al. to create a Transformer encoder-decoder framework specifically designed for multilabel classification.
 
 
 
@@ -16,7 +16,7 @@ The ViT (Vision Transformer) model, known for its excellence, has been widely us
 </table>
 </p>
 
-## Enviroment Setup
+## Environment Setup
 ```
 cd ./VE-MLD
 conda create -n VEMLD python=3.8
